@@ -1,3 +1,3 @@
 module.exports={
-    plugins: ['gatsby-pugins-emotion'],
+    plugins: ['gatsby-plugins-emotion'],
 };
